@@ -1,4 +1,11 @@
+AIM:
+In this experiment, we successfully implemented a simple "Hello World" program in C++.
+
+SOFTWARE USED :
+VS Code
+
 Theory:
+
 Operators in C++ are special symbols or keywords used to perform operations on variables and values. They form the foundation of expressions and enable computation, comparison, logical decision-making, and more.
 
 C++ supports a wide variety of operators, categorized as:

@@ -1,14 +1,16 @@
 AIM:
-In this experiment, we successfully implemented a simple "Hello World" program in C++.
+         
+         study & implement operators in C++.
 
 SOFTWARE USED :
-VS Code
+
+        VS Code
 
 Theory:
 
-Operators in C++ are special symbols or keywords used to perform operations on variables and values. They form the foundation of expressions and enable computation, comparison, logical decision-making, and more.
+     Operators in C++ are special symbols or keywords used to perform operations on variables and values. They form the foundation of expressions and enable computation, comparison, logical decision-making, and more.
 
-C++ supports a wide variety of operators, categorized as:
+     C++ supports a wide variety of operators, categorized as:
 
       Arithmetic Operators: Used for basic mathematical operations.
                    +, -, *, /, %
